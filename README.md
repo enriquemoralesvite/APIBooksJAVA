@@ -20,7 +20,7 @@ Este proyecto es una aplicación que consume una API para obtener datos sobre li
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone < https://github.com/enriquemoralesvite/Books.git>
+   git clone < [https://github.com/enriquemoralesvite/Books.git](https://github.com/enriquemoralesvite/APIBooksJAVA.git)>
 ## Uso
 
 1. Ejecuta la aplicación.
