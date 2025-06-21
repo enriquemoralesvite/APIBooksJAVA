@@ -21,3 +21,17 @@ Este proyecto es una aplicación que consume una API para obtener datos sobre li
 1. Clona el repositorio:
    ```bash
    git clone < https://github.com/enriquemoralesvite/Books.git>
+## Uso
+
+1. Ejecuta la aplicación.
+2. Ingresa el nombre del libro que deseas buscar.
+3. Visualiza las estadísticas de descargas en la consola.
+
+## Desafíos y Mejoras Futuras
+
+- Implementar la búsqueda de libros entre fechas específicas.
+- Integrar más funcionalidades y servicios.
+
+## Contribuciones
+
+Si deseas contribuir, por favor abre un issue o envía un pull request.
